@@ -1,13 +1,13 @@
 
 {
   "win32-x64-prod": {
-    "update": "https://github.com/skehd13/electron-supervisor-update/releases/download/l1.1.1",
-    "install": "https://github.com/skehd13/electron-supervisor-update/releases/download/l1.1.1/UplusSupervisorPC.Setup.1.1.1.exe",
-    "version": "1.1.1"
+    "update": "https://github.com/skehd13/electron-supervisor-update/releases/download/l1.0.1",
+    "install": "https://github.com/skehd13/electron-supervisor-update/releases/download/l1.0.1/UplusSupervisorPC.Setup.1.0.1.exe",
+    "version": "1.0.1"
   },
   "darwin-x64-prod": {
-    "update": "https://github.com/skehd13/electron-supervisor-update/releases/download/l1.1.1/release.json",
-    "install": "https://github.com/skehd13/electron-supervisor-update/releases/download/l1.1.1/UplusSupervisorPC-1.1.1.dmg",
-    "version": "1.1.1"
+    "update": "https://github.com/skehd13/electron-supervisor-update/releases/download/l1.0.1/release.json",
+    "install": "https://github.com/skehd13/electron-supervisor-update/releases/download/l1.0.1/UplusSupervisorPC-1.0.1.dmg",
+    "version": "1.0.1"
   }
 }
